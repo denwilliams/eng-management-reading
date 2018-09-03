@@ -6,3 +6,11 @@
 # Staff Review
 
 - [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
+
+# Hiring
+
+- [My Lessons from Interviewing 400+ Engineers Over Three Startups](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/)
+
+# Culture
+
+- [How This Head of Engineering Boosted Transparency at Instagram](http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/)
