@@ -10,6 +10,7 @@
 # Hiring
 
 - [My Lessons from Interviewing 400+ Engineers Over Three Startups](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/)
+- [7 Best Practices for Your Developer Onboarding Process](https://www.codementor.io/blog/developer-onboarding-process-32y3zqg1vc)
 
 # Culture
 
