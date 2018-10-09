@@ -14,3 +14,7 @@
 # Culture
 
 - [How This Head of Engineering Boosted Transparency at Instagram](http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/)
+
+# Remote
+
+- [How to Run a Remote Team (Zapier)](https://zapier.com/learn/remote-work/how-manage-remote-team/)
