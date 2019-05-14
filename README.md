@@ -14,7 +14,7 @@
 
 # Monitoring Productivity
 
-- [https://nortal.com/blog/the-myth-of-developer-productivity/](https://nortal.com/blog/the-myth-of-developer-productivity/)
+- [The myth of developer productivity](https://nortal.com/blog/the-myth-of-developer-productivity/)
 
 # Culture
 
