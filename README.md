@@ -12,6 +12,10 @@
 - [My Lessons from Interviewing 400+ Engineers Over Three Startups](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/)
 - [7 Best Practices for Your Developer Onboarding Process](https://www.codementor.io/blog/developer-onboarding-process-32y3zqg1vc)
 
+# Monitoring Productivity
+
+- [https://nortal.com/blog/the-myth-of-developer-productivity/](https://nortal.com/blog/the-myth-of-developer-productivity/)
+
 # Culture
 
 - [How This Head of Engineering Boosted Transparency at Instagram](http://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/)
